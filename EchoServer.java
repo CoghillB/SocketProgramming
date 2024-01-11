@@ -1,3 +1,8 @@
+/*Author: Brayden Coghill
+ * Date: December 3, 2023
+ * Description: This program is a server that receives a message from the client and sends a response.
+ */
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
