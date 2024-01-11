@@ -1,0 +1,1 @@
+Project created in my first year in the Computer Science program at Okanagan College. It is a simple program that displays socket programming. It connects to a server and allows the client and server to send messages to eachother.
